@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/jakblak/ngx-auth-firebaseui/issues"
   },
-  "private": true,
+  "private": false,
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp build:watch",
