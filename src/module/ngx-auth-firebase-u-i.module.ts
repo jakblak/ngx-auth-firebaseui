@@ -28,7 +28,6 @@ import {
   MatCheckboxModule
 } from '@angular/material';
 import {AngularFirestoreModule} from '@angular/fire/firestore';
-import {MatPasswordStrengthModule} from '@angular-material-extensions/password-strength';
 import {LegalityDialogComponent} from './components/legality-dialog/legality-dialog.component';
 
 // Export module's public API
@@ -67,7 +66,6 @@ export const NgxAuthFirebaseUIConfigToken = new InjectionToken<NgxAuthFirebaseUI
     MatProgressSpinnerModule,
     MatProgressBarModule,
     MatDialogModule,
-    MatPasswordStrengthModule,
     AngularFireAuthModule,
     AngularFirestoreModule,
   ],
