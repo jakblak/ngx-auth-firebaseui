@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"@angular-material-extensions/password-strength@^3.2.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@angular-material-extensions/password-strength/-/password-strength-3.2.0.tgz#361995785ad87640fff7317cda3e35ac90a8b0d4"
-  integrity sha512-UyvheouV7+LAFgKsM1bGtUrKpYFx0TKYqJbsdUyvQ3fvQRrddii0qamLi4Cg5Jjiw3xmfHazsMBO0Tj//R1vuQ==
-
 "@angular/animations@^7.0.1":
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-7.0.1.tgz#2df561c0959e156985297e69b7c30614537b4ffe"
