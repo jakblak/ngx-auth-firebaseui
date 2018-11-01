@@ -1,15 +1,15 @@
 {
-  "name": "ngx-auth-firebaseui",
-  "description": "Open Source Library for Angular Web Apps to integrate a material user interface for firebase authentication",
-  "version": "2.0.1",
-  "homepage": "https://github.com/anthonynahas/ngx-auth-firebaseui",
+  "name": "ng7-auth",
+  "description": "Firestore Authentication with Angular. A Fork form Anthony Nahas.",
+  "version": "2.0.2",
+  "homepage": "https://github.com/jakblak/ngx-auth-firebaseui",
   "author": {
-    "name": "anthonynahas",
-    "url": "https://github.com/anthonynahas"
+    "name": "jakblak",
+    "url": "https://github.com/jakblak"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/anthonynahas/ngx-auth-firebaseui.git"
+    "url": "git://github.com/jakblak/ngx-auth-firebaseui.git"
   },
   "license": "MIT",
   "keywords": [
@@ -28,7 +28,7 @@
     "ssr"
   ],
   "bugs": {
-    "url": "https://github.com/anthonynahas/ngx-auth-firebaseui/issues"
+    "url": "https://github.com/jakblak/ngx-auth-firebaseui/issues"
   },
   "private": true,
   "scripts": {
@@ -46,7 +46,7 @@
     "test:watch": " gulp test:watch",
     "demo": " gulp build:demo",
     "extract": "ng xi18n --output-path=locale",
-    "check-travis": " travis-status --repo=anthonynahas/ngx-auth-firebaseui --branch=master --fail-pending || echo 'Not yet passing'"
+    "check-travis": " travis-status --repo=jakblak/ngx-auth-firebaseui --branch=master --fail-pending || echo 'Not yet passing'"
   },
   "dependencies": {
     "@angular/animations": "^7.0.2",
