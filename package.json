@@ -1,7 +1,7 @@
 {
   "name": "ng7-auth",
   "description": "Firestore Authentication with Angular. A Fork form Anthony Nahas.",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "homepage": "https://github.com/jakblak/ngx-auth-firebaseui",
   "author": {
     "name": "jakblak",
