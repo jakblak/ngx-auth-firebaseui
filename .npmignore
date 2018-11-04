@@ -29,7 +29,8 @@ Desktop.ini
 **/*.ngfactory.ts
 
 # Library files
+src/*
 build/*
 /playground/
 /.playground/
-/demo-app/
+/demo/*
